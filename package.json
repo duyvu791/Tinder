@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuhanamm/clonetinder.git"
+    "url": "git+https://github.com/vuhanamm/Tinder.git"
   },
   "keywords": [
     "tinder"
@@ -16,7 +16,7 @@
   "author": "vuhanam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vuhanamm/clonetinder/issues"
+    "url": "https://github.com/vuhanamm/Tinder/issues"
   },
-  "homepage": "https://github.com/vuhanamm/clonetinder#readme"
+  "homepage": "https://github.com/vuhanamm/Tinder#readme"
 }
