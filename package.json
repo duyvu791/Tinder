@@ -1,0 +1,22 @@
+{
+  "name": "tinder",
+  "version": "1.0.0",
+  "description": "clone tinder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuhanamm/clonetinder.git"
+  },
+  "keywords": [
+    "tinder"
+  ],
+  "author": "vuhanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuhanamm/clonetinder/issues"
+  },
+  "homepage": "https://github.com/vuhanamm/clonetinder#readme"
+}
